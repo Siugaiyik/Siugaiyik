@@ -1,6 +1,9 @@
 - Hi, I’m @Siugaiyik (which means barbeque chicken wings in Cantonese🐔)
 - Currently learning JavaScript, CSS and HTML.
 - I’m looking to collaborate on making any types of website! 🎮 👗 ✈️ 💻
+- I speak Cantonese, English, Mandarin and Japanese.
+- Please feel free to contact me with:
+- ✉️ siugaiyikcoding@gmail.com
 
 
 <!---
