@@ -1,4 +1,4 @@
-- Hi, I’m @Siugaiyik (which means barbecue chicken wings in Cantonese🐔)
+- Hi, I’m @Siugaiyik (which means barbeque chicken wings in Cantonese🐔)
 - Currently learning JavaScript, CSS and HTML.
 - I’m looking to collaborate on making any types of website! 🎮 👗 ✈️ 💻
 
